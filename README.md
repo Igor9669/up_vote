@@ -1,4 +1,4 @@
-# up_vote
+# UpVote app
 Simple Vue app for up voting the posts
 
 ## Link to the demo
